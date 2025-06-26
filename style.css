@@ -148,6 +148,9 @@ td {
     align-items: center;
     justify-content: center;
   }
+  .buttons2 button{
+    padding: 10px 30px;
+  }
 
   .profile img{
     height: 70px;
